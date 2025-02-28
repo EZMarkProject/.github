@@ -1,7 +1,7 @@
 # Welcome to EZMarkProject
 
 <div align="center">
-  <img src="https://github.com/EZMarkProject/.github/assets/logo.png" alt="EZMark Logo" width="200" />
+  <img src="https://github.com/EZMarkProject/.github/assets/logo.svg" alt="EZMark Logo" width="200" />
   <h2>Transforming Educational Assessment with Intelligent Technology</h2>
   
   [![Website](https://img.shields.io/badge/Website-ezmark.com-blue)](https://ezmark.com)
